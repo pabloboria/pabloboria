@@ -16,13 +16,13 @@ Me apasiona crear soluciones atractivas e innovadoras en el desarrollo de aplica
   <p>
     -El frío ❄ <br/>
     -Comer 🍔 <br/>
-    -videojuegos 🎮
+    -Videojuegos 🎮
   </p>
   <h4>Hobbies</h4>
   <p>
     -Gym 💪 <br/>
-    -jugar al futbol ⚽<br/>
-    -mirar series 👀
+    -Jugar al futbol ⚽<br/>
+    -Mirar series 👀
   </p>
 </p>
 <br/>
